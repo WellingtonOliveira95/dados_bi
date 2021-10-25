@@ -2,7 +2,7 @@
 [![GitHub license](https://img.shields.io/github/license/WellingtonOliveira95/dados_bd)](https://github.com/WellingtonOliveira95/dados_bd/blob/master/LICENSE)
 
 ## DESRIÇÃO:
-Dados de COVID na cidade de Matão e Araraquara analizados com dados disponibilizados pelo governo.
+Dados de COVID na cidade de Matão e Araraquara analisados com dados disponibilizados pelo governo.
 Como primeiro projeto realizado pelo Power BI importei os dados do governo, fiz todo o tratamento e elaborei uma dashboard fazendo uma breve análise da evolução e comparação entre as duas cidades localizadas no interior de São Paulo:
 
 ### DASHBOAR CRIADA:
