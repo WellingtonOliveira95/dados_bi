@@ -1,4 +1,5 @@
 # ANÁLISE DADOS COVID
+[![GitHub license](https://img.shields.io/github/license/WellingtonOliveira95/dados_bd)](https://github.com/WellingtonOliveira95/dados_bd/blob/master/LICENSE)
 
 ## DESRIÇÃO:
 Dados de COVID na cidade de Matão e Araraquara analizados com dados disponibilizados pelo governo.
